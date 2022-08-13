@@ -6,7 +6,7 @@ codesandbox 원본 주소 : https://codesandbox.io/s/class06-3qikei
 
 ```
 
-# ~ ###### : 제목
+# ~ ###### : 제목 ㄹ
 
 - : 목록
 
